@@ -10,7 +10,7 @@ namespace Ja
     {
         static void Main(string[] args)
         {
-            string message = "Hello World!!";
+            string message = "Hello World!.fs!";
 
             Console.WriteLine(message);
         }
